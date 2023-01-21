@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "7F1E68B2-3782-4707-9DE2-A03F575BA231"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BBC72BBC-F57B-4C16-89C4-A0F35ECF7B3D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SecuredTextFiled/SecuredTextFieldView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "117"
+            endingLineNumber = "117"
+            landmarkName = "hideKeyboard()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7BBE04EE-9E10-499B-98A8-1C280CD5A387"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SecuredTextFiled/SecuredTextFieldView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "79"
+            endingLineNumber = "79"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "7BBE04EE-9E10-499B-98A8-1C280CD5A387 - acc50e9ac62f473b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 () -&gt; () in SecuredTextFiled.SecuredTextFieldView.body.getter : some"
+                  moduleName = "SecuredTextFiled"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/chinthaka/Desktop/SecuredTextFiled/SecuredTextFiled/SecuredTextFieldView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "79"
+                  endingLineNumber = "79"
+                  offsetFromSymbolStart = "32">
+               </Location>
+               <Location
+                  uuid = "7BBE04EE-9E10-499B-98A8-1C280CD5A387 - 9e7c21e3ca1fd9f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "implicit closure #2 (Swift.Optional&lt;SecuredTextFiled.Field&gt;) -&gt; () in implicit closure #1 (SecuredTextFiled.SecuredTextFieldView) -&gt; (Swift.Optional&lt;SecuredTextFiled.Field&gt;) -&gt; () in closure #2 () -&gt; () in SecuredTextFiled.SecuredTextFieldView.body.getter : some"
+                  moduleName = "SecuredTextFiled"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/chinthaka/Desktop/SecuredTextFiled/SecuredTextFiled/SecuredTextFieldView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "79"
+                  endingLineNumber = "79"
+                  offsetFromSymbolStart = "35">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
